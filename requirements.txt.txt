@@ -1,6 +1,6 @@
-	streamlit
+streamlit
 yfinance
 pandas
-requests
+vaderSentiment
 beautifulsoup4
-vaderSentiment	
+requests
